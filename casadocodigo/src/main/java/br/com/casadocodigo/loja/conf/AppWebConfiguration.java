@@ -105,5 +105,6 @@ public class AppWebConfiguration extends WebMvcConfigurerAdapter {
 	    resolver.setContentNegotiationManager(manager);
 	    return resolver;
 	}
+
 	
 }
